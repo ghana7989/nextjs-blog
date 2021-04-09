@@ -1,7 +1,14 @@
 /** @format */
 
+import React, {Fragment} from 'react'
+import Hero from '../components/homePage/Hero'
+
 function HomePage() {
-	return <h1>hell00 from HomePage</h1>
+	return (
+		<Fragment>
+			<Hero />
+		</Fragment>
+	)
 }
 
 export default HomePage
