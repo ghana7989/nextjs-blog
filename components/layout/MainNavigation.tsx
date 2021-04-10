@@ -2,8 +2,8 @@
 
 import Link from 'next/link'
 import React from 'react'
+import Logo from './Logo';
 
-import Logo from './logo'
 import classes from './MainNavigation.module.css'
 
 const MainNavigation = () => (
