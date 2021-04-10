@@ -5,4 +5,5 @@ module.exports = {
 	images: {
 		domains: ['res.cloudinary.com', 'source.unsplash.com'],
 	},
+	distDir: 'out',
 }
