@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Create a .env.local file and add mongodb uri `mongodb+srv://<username>:<password>@cluster0.wfvns.mongodb.net/<databaseName>?retryWrites=true&w=majority` and replace the fields in angled brackets,including brackets, with your own original credentials.
+
 First, run the development server:
 
 ```bash

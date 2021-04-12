@@ -1,7 +1,9 @@
 /** @format */
 
+import ContactForm from '../components/contact/ContactForm'
+
 function ContactPage() {
-	return <h1>hell00 from ContactPage</h1>
+	return <ContactForm />
 }
 
 export default ContactPage
