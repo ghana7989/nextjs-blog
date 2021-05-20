@@ -8,7 +8,7 @@ A simple personal blog, written in Typescript. [Click Here To See The Site](http
 let codeContains = {
 	languages: ['Typescript','CSS'],
 	technologies: ['React', 'Next.JS', 'mongodb'],
-	renderingStyle: ['SSR', 'ISR'],
+	renderingStyle: ['SSR', 'ISR', "SSG"],
 }
 ```
 
